@@ -284,3 +284,7 @@ Supported Platforms
 -------------------
 
 - iOS
+
+**Author : Roy Rivera**
+
+  I am a software developer at <a href="https://www.wodely.com/">Wodely</a>
